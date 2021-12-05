@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":415.1111111111111,"scrollY":312.44444444444446},
+{"id":2,"expanded":true,"name":"Fishing Village","order":2,"parentId":0,"scrollX":463.1111111111111,"scrollY":606.6666666666666},
+{"id":3,"expanded":false,"name":"INRro","order":7,"parentId":0,"scrollX":408,"scrollY":311.55555555555554},
+{"id":4,"expanded":false,"name":"INN fishing village","order":3,"parentId":2,"scrollX":400.8888888888889,"scrollY":546.2222222222222},
+{"id":5,"expanded":false,"name":"Item Shop","order":4,"parentId":2,"scrollX":415.1111111111111,"scrollY":546.2222222222222},
+{"id":6,"expanded":false,"name":"House 2","order":5,"parentId":2,"scrollX":516.4444444444445,"scrollY":447.55555555555554},
+{"id":7,"expanded":false,"name":"MAP007","order":6,"parentId":2,"scrollX":1224,"scrollY":968.4444444444445}
+]
